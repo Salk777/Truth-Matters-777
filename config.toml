@@ -1,0 +1,34 @@
+baseurl = "/"
+title = "Truth Matters"
+theme = "gohugo-theme-ananke"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "My headline"
+    description = "My description"
+    instagram = "https://www.instagram.com/truth.matters777/"
+    twitter = "https://twitter.com/truthmatters779"
+    email = "mindyourbusiness77777@gmail.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+    
+
+    [menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'Investigations'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/Investigations/'
+  weight = -110
+[[menu.main]]
+  name = 'Categories'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = '/Categories/'
+  weight = -100
+
+[Permalinks]
+    post = "/:filename/"
+
