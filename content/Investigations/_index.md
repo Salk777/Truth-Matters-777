@@ -1,7 +1,7 @@
 ---
 title: "Investigations"
 description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: "/images/3DA7693E-02C1-47D9-9B0D-8ECF061525EF-9987-000005D1A7A9178A.JPG"
+featured_image: "/images/agartha2.JPG"
 ---
 {{< figure src="/images/Pope-Edouard-de-Beaumont-1844.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
