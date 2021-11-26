@@ -10,6 +10,7 @@ theme = "ananke"
     instagram = "https://www.instagram.com/truth.matters777/"
     twitter = "https://twitter.com/truthmatters779"
     email = "mindyourbusiness77777@gmail.com"
+    youtube = "youtube.com" 
     opengraph = true
     shareTwitter = true
     dateFormat = "Mon, Jan 2, 2006"
